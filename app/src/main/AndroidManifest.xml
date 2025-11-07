@@ -1,5 +1,4 @@
-<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.memeitizer.search">
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
 
     <application
         android:label="Drizzy Search"
