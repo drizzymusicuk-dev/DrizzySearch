@@ -1,0 +1,20 @@
+/DrizzyApp/
+├── build.gradle
+├── gradle.properties
+├── settings.gradle
+└── app/
+    ├── build.gradle
+    └── src/
+        └── main/
+            ├── AndroidManifest.xml
+            ├── res/
+            │   ├── layout/
+            │   │   ├── activity_main.xml
+            │   │   ├── activity_login.xml
+            │   │   └── item_result.xml
+            │   └── values/strings.xml
+            └── java/com/drizzyai/search/
+                ├── MainActivity.java
+                ├── LoginActivity.java
+                ├── SearchAdapter.java
+                └── ApiClient.java

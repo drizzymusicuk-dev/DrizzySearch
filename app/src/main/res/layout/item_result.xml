@@ -1,0 +1,16 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:padding="8dp"
+    android:layout_width="match_parent" android:layout_height="wrap_content">
+
+    <TextView android:id="@+id/title" android:textStyle="bold"
+        android:textSize="16sp" android:textColor="#1a0dab"
+        android:layout_width="match_parent" android:layout_height="wrap_content"/>
+
+    <TextView android:id="@+id/url"
+        android:textColor="#006621" android:textSize="12sp"
+        android:layout_width="match_parent" android:layout_height="wrap_content"/>
+
+    <TextView android:id="@+id/snippet"
+        android:textColor="#444"
+        android:layout_width="match_parent" android:layout_height="wrap_content"/>
+</LinearLayout>
